@@ -1,0 +1,38 @@
+{
+  "name": "plugin",
+  "version": "1.0.0",
+  "description": "None provided",
+  "main": "index.js",
+  "nativescript": {
+    "platforms": {
+      "ios": "1.1.0",
+      "android": "1.1.0"
+    },
+    "variables": {
+      "VAR_1": {
+        "default": "goshko"
+      },
+      "VAR_2": {
+      },
+      "VAR_3": {
+        "validation": "number"
+      }
+    }
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Mitko-Kerezov/testing-plugin.git"
+  },
+  "keywords": [
+    "NativeScript"
+  ],
+  "author": "Me",
+  "license": {
+    "type": "MIT",
+    "url": "https://github.com/Mitko-Kerezov/testing-plugin/blob/master/package.json"
+  },
+  "bugs": {
+    "url": "https://github.com/Mitko-Kerezov/testing-plugin/issues"
+  },
+  "homepage": "https://github.com/Mitko-Kerezov/testing-plugin"
+}
