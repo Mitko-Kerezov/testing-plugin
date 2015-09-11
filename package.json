@@ -6,7 +6,8 @@
   "nativescript": {
     "platforms": {
       "ios": "1.1.0",
-      "android": "1.1.0"
+      "android": "1.1.0",
+      "invalid": "1.2.0"
     },
     "variables": {
       "VAR_1": {
